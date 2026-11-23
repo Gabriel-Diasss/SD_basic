@@ -1,0 +1,8 @@
+../Core/Src/wav_player.c:16:6:HAL_I2S_TxHalfCpltCallback	16	static
+../Core/Src/wav_player.c:17:6:HAL_I2S_TxCpltCallback	16	static
+../Core/Src/wav_player.c:26:6:wav_set_volume	16	static
+../Core/Src/wav_player.c:29:12:wav_parse	64	static
+../Core/Src/wav_player.c:60:17:read_chunked	48	static
+../Core/Src/wav_player.c:76:17:fill_half	56	static
+../Core/Src/wav_player.c:104:13:set_rate	16	static
+../Core/Src/wav_player.c:111:9:wav_play	632	static
